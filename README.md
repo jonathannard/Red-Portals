@@ -25,29 +25,29 @@
 
 ## Examples <a name="examples"></a>
 
-| Portal            | Preview                   |
-| ----------------- | ------------------------- |
-| AT&T              | To do...                  |
-| Alaska Airline    | To do...                  |
-| Amazon            | [Link][url-portal-amazon] |
-| Apple             | To do...                  |
-| Delta Airline     | To do...                  |
-| Discord           | To do...                  |
-| Facebook          | To do...                  |
-| Google            | To do...                  |
-| Instagram         | To do...                  |
-| Microsoft         | To do...                  |
-| Microsoft 365     | To do...                  |
-| Southwest Airline | To do...                  |
-| Spectrum          | To do...                  |
-| Spirit Airline    | To do...                  |
-| Spirit Airline    | To do...                  |
-| Starbucks         | To do...                  |
-| Starlink          | To do...                  |
-| T-Mobile          | To do...                  |
-| Twitch            | To do...                  |
-| United Airline    | To do...                  |
-| X / Twitter       | To do...                  |
+| Portal            | Preview                                  |
+| ----------------- | ---------------------------------------- |
+| AT&T              | To do...                                 |
+| Alaska Airline    | To do...                                 |
+| Amazon            | [portals/amazon.html][url-portal-amazon] |
+| Apple             | To do...                                 |
+| Delta Airline     | To do...                                 |
+| Discord           | To do...                                 |
+| Facebook          | To do...                                 |
+| Google            | To do...                                 |
+| Instagram         | To do...                                 |
+| Microsoft         | To do...                                 |
+| Microsoft 365     | To do...                                 |
+| Southwest Airline | To do...                                 |
+| Spectrum          | To do...                                 |
+| Spirit Airline    | To do...                                 |
+| Spirit Airline    | To do...                                 |
+| Starbucks         | To do...                                 |
+| Starlink          | To do...                                 |
+| T-Mobile          | To do...                                 |
+| Twitch            | To do...                                 |
+| United Airline    | To do...                                 |
+| X / Twitter       | To do...                                 |
 
 <p align="right">[ <a href="#index">Index</a> ]</p>
 
