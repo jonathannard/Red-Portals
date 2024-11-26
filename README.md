@@ -9,6 +9,7 @@
 
 ## Index <a name="index"></a>
 
+- [Previews](#previews)
 - [Disclaimer](#disclaimer)
 - [Purpose](#purpose)
 - [What Are "Evil Portals"?](#what-are-evil-portals)
@@ -16,6 +17,22 @@
 - [Getting Started](#getting-started)
 - [Development](#development)
 - [Wrapping Up](#wrapping-up)
+
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+
+## Previews <a name="previews"></a>
+
+A list of all current portals below:
+
+| Portal | Preview                   |
+| ------ | ------------------------- |
+| Amazon | [Link][url-portal-amazon] |
+
+More coming soon!
+
+<p align="right">[ <a href="#index">Index</a> ]</p>
 
 <!---------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------->
@@ -117,8 +134,8 @@ individuals and organizations aware of potential threats.
 1. Clone this repository to your machine.
 2. Set up a Raspberry Pi or other [supported hardware][url-lambda-guru] as an
    access point.
-3. Use the provided templates to simulate captive portals in a controlled
-   environment.
+3. Use the provided templates from within the `\portals` folder to simulate
+   captive portals in a controlled environment.
 4. Review the provided documentation to understand how attackers exploit this
    technique — and how to defend against it.
 
@@ -144,6 +161,19 @@ the provided examples. To get started with development:
 7. Finalize your changes with `npm run build`.
 8. Commit your changes and push them to your fork.
 9. Open a pull request to the main repository here.
+
+<p align="right">[ <a href="#index">Index</a> ]</p>
+
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+
+## Licensing <a name="licensing"></a>
+
+This project is licensed under the **MIT** License. See the
+[LICENSE.md](LICENSE.md) file for the pertaining license text.
+
+`SPDX-License-Identifier: MIT`
 
 <p align="right">[ <a href="#index">Index</a> ]</p>
 
@@ -183,6 +213,7 @@ Cody Tolene
 [url-btc]:
   https://www.blockchain.com/explorer/addresses/btc/bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt
 [url-lambda-guru]: https://www.lambda.guru/
+[url-portal-amazon]: https://www.codytolene.com/Red-Portals/portals/amazon.html
 
 <!---------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------->
