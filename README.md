@@ -16,6 +16,7 @@
 - [Responsible Use](#responsible-use)
 - [Getting Started](#getting-started)
 - [Development](#development)
+- [Licensing](#licensing)
 - [Wrapping Up](#wrapping-up)
 
 <!---------------------------------------------------------------------------->
