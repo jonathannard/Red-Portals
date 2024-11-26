@@ -9,7 +9,7 @@
 
 ## Index <a name="index"></a>
 
-- [Previews](#previews)
+- [Examples](#examples)
 - [Disclaimer](#disclaimer)
 - [Purpose](#purpose)
 - [What Are "Evil Portals"?](#what-are-evil-portals)
@@ -23,15 +23,31 @@
 <!---------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------->
 
-## Previews <a name="previews"></a>
+## Examples <a name="examples"></a>
 
-A list of all current portals below:
-
-| Portal | Preview                   |
-| ------ | ------------------------- |
-| Amazon | [Link][url-portal-amazon] |
-
-More coming soon!
+| Portal            | Preview                   |
+| ----------------- | ------------------------- |
+| AT&T              | To do...                  |
+| Alaska Airline    | To do...                  |
+| Amazon            | [Link][url-portal-amazon] |
+| Apple             | To do...                  |
+| Delta Airline     | To do...                  |
+| Discord           | To do...                  |
+| Facebook          | To do...                  |
+| Google            | To do...                  |
+| Instagram         | To do...                  |
+| Microsoft         | To do...                  |
+| Microsoft 365     | To do...                  |
+| Southwest Airline | To do...                  |
+| Spectrum          | To do...                  |
+| Spirit Airline    | To do...                  |
+| Spirit Airline    | To do...                  |
+| Starbucks         | To do...                  |
+| Starlink          | To do...                  |
+| T-Mobile          | To do...                  |
+| Twitch            | To do...                  |
+| United Airline    | To do...                  |
+| X / Twitter       | To do...                  |
 
 <p align="right">[ <a href="#index">Index</a> ]</p>
 
@@ -184,11 +200,10 @@ This project is licensed under the **MIT** License. See the
 
 ## Wrapping Up <a name="wrapping-up"></a>
 
-Thank you for all of your support, I spent a long time working on this project
-and plan to support it long term. Really hoping the community joins in and helps
-me improve it from here. It's important to me that this project stays accessible
-to everyone, so please keep this software free and open source. If you have any
-questions, please let me know by opening an issue [here][url-new-issue].
+Thank you for all of your support. It's important to me that this project stays
+accessible to everyone, so please keep this software free and open source. If
+you have any questions, please let me know by opening an issue
+[here][url-new-issue].
 
 | Type                                                                      | Info                                                                      |
 | :------------------------------------------------------------------------ | :------------------------------------------------------------------------ |
@@ -214,6 +229,7 @@ Cody Tolene
 [url-btc]:
   https://www.blockchain.com/explorer/addresses/btc/bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt
 [url-lambda-guru]: https://www.lambda.guru/
+[url-new-issue]: https://github.com/CodyTolene/Red-Portals/issues
 [url-portal-amazon]: https://www.codytolene.com/Red-Portals/portals/amazon.html
 
 <!---------------------------------------------------------------------------->
