@@ -1,0 +1,19 @@
+{
+  "name": "evil-portals",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "npm run format && npx eleventy",
+    "build:watch": "npm run format && npx eleventy --serve",
+    "format": "prettier --write src/",
+    "format:check": "prettier --check src/",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "html-minifier-terser": "^7.2.0",
+    "husky": "^9.1.7",
+    "prettier": "3.3.3",
+    "sass": "^1.81.0"
+  }
+}
