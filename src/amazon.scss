@@ -64,4 +64,13 @@ body {
       margin: 0 0 0.5rem 0;
     }
   }
+
+  footer {
+    bottom: 0;
+    color: gray;
+    font-size: 0.5rem;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+  }
 }
