@@ -179,6 +179,10 @@ the provided examples. To get started with development:
 8. Commit your changes and push them to your fork.
 9. Open a pull request to the main repository here.
 
+> ![Warn][img-warning] Templates must include the notice "This is a simulated
+> template for educational purposes only. Not affiliated with or endorsed by any
+> brand."
+
 <p align="right">[ <a href="#index">Index</a> ]</p>
 
 <!---------------------------------------------------------------------------->
@@ -230,7 +234,8 @@ Cody Tolene
   https://www.blockchain.com/explorer/addresses/btc/bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt
 [url-lambda-guru]: https://www.lambda.guru/
 [url-new-issue]: https://github.com/CodyTolene/Red-Portals/issues
-[url-portal-amazon]: https://www.codytolene.com/Red-Portals/portals/amazon.html
+[url-portal-amazon]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/amazon.html
 
 <!---------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------->
