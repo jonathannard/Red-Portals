@@ -25,29 +25,28 @@
 
 ## Examples <a name="examples"></a>
 
-| Portal            | Preview                                  |
-| ----------------- | ---------------------------------------- |
-| AT&T              | To do...                                 |
-| Alaska Airline    | To do...                                 |
-| Amazon            | [portals/amazon.html][url-portal-amazon] |
-| Apple             | To do...                                 |
-| Delta Airline     | To do...                                 |
-| Discord           | To do...                                 |
-| Facebook          | To do...                                 |
-| Google            | To do...                                 |
-| Instagram         | To do...                                 |
-| Microsoft         | To do...                                 |
-| Microsoft 365     | To do...                                 |
-| Southwest Airline | To do...                                 |
-| Spectrum          | To do...                                 |
-| Spirit Airline    | To do...                                 |
-| Spirit Airline    | To do...                                 |
-| Starbucks         | To do...                                 |
-| Starlink          | To do...                                 |
-| T-Mobile          | To do...                                 |
-| Twitch            | To do...                                 |
-| United Airline    | To do...                                 |
-| X / Twitter       | To do...                                 |
+| Portal            | Preview                                                        | Inspired By                                                              |
+| ----------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| AT&T              | To do...                                                       |                                                                          |
+| Alaska Airline    | [portals/alaska-airline/index.html][url-portal-alaska-airline] | [@roshanravan][url-roshanravan] - [link][url-roshanravan-alaska-airline] |
+| Amazon            | [portals/amazon/index.html][url-portal-amazon]                 | [@roshanravan][url-roshanravan] - [link][url-roshanravan-amazon]         |
+| Apple             | To do...                                                       |                                                                          |
+| Delta Airline     | To do...                                                       |                                                                          |
+| Discord           | To do...                                                       |                                                                          |
+| Facebook          | To do...                                                       |                                                                          |
+| Google            | To do...                                                       |                                                                          |
+| Instagram         | To do...                                                       |                                                                          |
+| Microsoft         | To do...                                                       |                                                                          |
+| Microsoft 365     | To do...                                                       |                                                                          |
+| Southwest Airline | To do...                                                       |                                                                          |
+| Spectrum          | To do...                                                       |                                                                          |
+| Spirit Airline    | To do...                                                       |                                                                          |
+| Starbucks         | To do...                                                       |                                                                          |
+| Starlink          | To do...                                                       |                                                                          |
+| T-Mobile          | To do...                                                       |                                                                          |
+| Twitch            | To do...                                                       |                                                                          |
+| United Airline    | To do...                                                       |                                                                          |
+| X / Twitter       | To do...                                                       |                                                                          |
 
 <p align="right">[ <a href="#index">Index</a> ]</p>
 
@@ -174,8 +173,10 @@ the provided examples. To get started with development:
 5. Run `npm install` to install dependencies.
 6. Make your changes to the files in the `src\` folder, and test them locally:
    - Use `npm run build:watch` to watch for changes and rebuild the project.
-   - Navigate to "http://localhost:8080/my-file.html" to view your changes.
-7. Finalize your changes with `npm run build`.
+   - Navigate to "http://localhost:8080/{filename}/index.html" to view changes
+     (replace `{filename}` with the file you want to view).
+7. Once your happy with the changes, you can finalize your changes with
+   `npm run build`.
 8. Commit your changes and push them to your fork.
 9. Open a pull request to the main repository here.
 
@@ -234,8 +235,15 @@ Cody Tolene
   https://www.blockchain.com/explorer/addresses/btc/bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt
 [url-lambda-guru]: https://www.lambda.guru/
 [url-new-issue]: https://github.com/CodyTolene/Red-Portals/issues
+[url-portal-alaska-airline]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/alaska-airline/index.html
 [url-portal-amazon]:
-  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/amazon.html
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/amazon/index.html
+[url-roshanravan-alaska-airline]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/26a1b21f79b93290309d310f6ed83ac5ef0b3c82#diff-12c0462156cd8f8052b77b564b003e1d0ab3886b4d42db47ce03381787b30065
+[url-roshanravan-amazon]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/26a1b21f79b93290309d310f6ed83ac5ef0b3c82#diff-454de47dc3f9f980011f78215de6f76df785b08a2299e066b5159fc877722c6d
+[url-roshanravan]: https://github.com/roshanravan
 
 <!---------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------->
