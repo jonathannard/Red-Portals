@@ -10,7 +10,7 @@
 ## Index <a name="index"></a>
 
 - [Examples](#examples)
-- [Disclaimer](#disclaimer)
+- [Disclaimer & Legal Notice](#disclaimer-legal-notice)
 - [Purpose](#purpose)
 - [What Are "Evil Portals"?](#what-are-evil-portals)
 - [Responsible Use](#responsible-use)
@@ -25,28 +25,28 @@
 
 ## Examples <a name="examples"></a>
 
-| Portal            | Preview                                                        | Inspired By                                                              |
-| ----------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| AT&T              | To do...                                                       |                                                                          |
-| Alaska Airline    | [portals/alaska-airline/index.html][url-portal-alaska-airline] | [@roshanravan][url-roshanravan] - [link][url-roshanravan-alaska-airline] |
-| Amazon            | [portals/amazon/index.html][url-portal-amazon]                 | [@roshanravan][url-roshanravan] - [link][url-roshanravan-amazon]         |
-| Apple             | To do...                                                       |                                                                          |
-| Delta Airline     | To do...                                                       |                                                                          |
-| Discord           | To do...                                                       |                                                                          |
-| Facebook          | To do...                                                       |                                                                          |
-| Google            | To do...                                                       |                                                                          |
-| Instagram         | To do...                                                       |                                                                          |
-| Microsoft         | To do...                                                       |                                                                          |
-| Microsoft 365     | To do...                                                       |                                                                          |
-| Southwest Airline | To do...                                                       |                                                                          |
-| Spectrum          | To do...                                                       |                                                                          |
-| Spirit Airline    | To do...                                                       |                                                                          |
-| Starbucks         | To do...                                                       |                                                                          |
-| Starlink          | To do...                                                       |                                                                          |
-| T-Mobile          | To do...                                                       |                                                                          |
-| Twitch            | To do...                                                       |                                                                          |
-| United Airline    | To do...                                                       |                                                                          |
-| X / Twitter       | To do...                                                       |                                                                          |
+| Portal            | Preview                                                          | Inspired By                                                               |
+| ----------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| AT&T              | To do...                                                         |                                                                           |
+| Alaska Airlines   | [portals/alaska-airlines/index.html][url-portal-alaska-airlines] | [@roshanravan][url-roshanravan] - [link][url-roshanravan-alaska-airlines] |
+| Amazon            | [portals/amazon/index.html][url-portal-amazon]                   | [@roshanravan][url-roshanravan] - [link][url-roshanravan-amazon]          |
+| Apple             | To do...                                                         |                                                                           |
+| Delta Airlines    | To do...                                                         |                                                                           |
+| Discord           | To do...                                                         |                                                                           |
+| Facebook          | To do...                                                         |                                                                           |
+| Google            | [portals/google/index.html][url-portal-google]                   | [@breaching][url-breaching] - [link][url-breaching-google]                |
+| Instagram         | To do...                                                         |                                                                           |
+| Microsoft         | To do...                                                         |                                                                           |
+| Microsoft 365     | To do...                                                         |                                                                           |
+| Southwest Airline | To do...                                                         |                                                                           |
+| Spectrum          | To do...                                                         |                                                                           |
+| Spirit Airlines   | To do...                                                         |                                                                           |
+| Starbucks         | To do...                                                         |                                                                           |
+| Starlink          | To do...                                                         |                                                                           |
+| T-Mobile          | To do...                                                         |                                                                           |
+| Twitch            | To do...                                                         |                                                                           |
+| United Airlines   | To do...                                                         |                                                                           |
+| X / Twitter       | To do...                                                         |                                                                           |
 
 <p align="right">[ <a href="#index">Index</a> ]</p>
 
@@ -54,7 +54,7 @@
 <!---------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------->
 
-## ⚠️ Disclaimer <a name="disclaimer"></a>
+## ⚠️ Disclaimer and Legal Notice <a name="disclaimer-legal-notice"></a>
 
 This repository is provided for **educational purposes only** and is intended
 for use by:
@@ -64,22 +64,27 @@ for use by:
 - Penetration testers
 - Individuals seeking to understand network vulnerabilities to improve defenses
 
-**Do not use these tools without explicit permission** from the owner of the
-network or system being tested. Unauthorized use may violate local, state, or
-international laws. The repository maintainers will not be held responsible for
-any misuse of the provided code, templates, or examples.
+Important Usage Guidelines:
 
-The logos and designs in this repository are **not official logos** and are
-provided solely for **educational purposes**. They are artistic representations
-or placeholders and do not imply endorsement, affiliation, or sponsorship by the
-respective brands.
+- Only use these tools with explicit authorization from the owner of the network
+  or system being tested.
+- Unauthorized use may violate local, state, or international laws.
+- The repository maintainers are not liable for misuse of the provided code,
+  templates, or examples.
 
-### Legal Notice
+About Logos and Designs:
 
-The content of this repository is provided "as is" without any guarantees or
-warranties. By using the tools and templates provided herein, you acknowledge
-and accept full responsibility for their use, including ensuring compliance with
-applicable laws and obtaining proper authorization.
+- The logos and designs in this repository are artistic representations or
+  placeholders provided solely for educational purposes.
+- They do not imply endorsement, affiliation, or sponsorship by the respective
+  brands.
+
+Terms of Use:
+
+- The content in this repository is provided "as is," with no guarantees or
+  warranties.
+- By using the tools and templates herein, you accept full responsibility for
+  ensuring compliance with applicable laws and obtaining proper authorization.
 
 <p align="right">[ <a href="#index">Index</a> ]</p>
 
@@ -91,8 +96,9 @@ applicable laws and obtaining proper authorization.
 
 The goal of this repository is to raise awareness about the vulnerabilities that
 attackers may exploit using "Evil Portals" — captive portals designed to mimic
-legitimate login systems on open access points (APs). By providing realistic
-examples and explanations of how these systems operate, this repository aims to:
+legitimate login systems on open access points (APs) or otherwise. By providing
+realistic examples and explanations of how these systems operate, this
+repository aims to:
 
 1. **Educate network administrators and developers** about potential risks.
 2. **Demonstrate the importance of securing wireless networks** against
@@ -150,7 +156,7 @@ individuals and organizations aware of potential threats.
 1. Clone this repository to your machine.
 2. Set up a Raspberry Pi or other [supported hardware][url-lambda-guru] as an
    access point.
-3. Use the provided templates from within the `\portals` folder to simulate
+3. Use the provided templates from within the `/portals` folder to simulate
    captive portals in a controlled environment.
 4. Review the provided documentation to understand how attackers exploit this
    technique — and how to defend against it.
@@ -171,11 +177,11 @@ the provided examples. To get started with development:
 3. Create a new branch for your changes.
 4. Ensure node.js and npm are installed on your machine.
 5. Run `npm install` to install dependencies.
-6. Make your changes to the files in the `src\` folder, and test them locally:
+6. Make your changes to the files in the `src/` folder, and test them locally:
    - Use `npm run build:watch` to watch for changes and rebuild the project.
    - Navigate to "http://localhost:8080/{filename}/index.html" to view changes
      (replace `{filename}` with the file you want to view).
-7. Once your happy with the changes, you can finalize your changes with
+7. Once you're happy with the changes, you can finalize your changes with
    `npm run build`.
 8. Commit your changes and push them to your fork.
 9. Open a pull request to the main repository here.
@@ -231,15 +237,20 @@ Cody Tolene
 
 <!-- LINK REFERENCES -->
 
+[url-breaching]: https://github.com/breaching
+[url-breaching-google]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/09c66bbb310ea1a1f90b1e00a27b1e90ab5a0d3d#diff-4ef8251f8a9bf3dd2cf37224d237cbaa64ee7607660f28ce37b92e085d217059
 [url-btc]:
   https://www.blockchain.com/explorer/addresses/btc/bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt
 [url-lambda-guru]: https://www.lambda.guru/
 [url-new-issue]: https://github.com/CodyTolene/Red-Portals/issues
-[url-portal-alaska-airline]:
-  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/alaska-airline/index.html
+[url-portal-alaska-airlines]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/alaska-airlines/index.html
 [url-portal-amazon]:
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/amazon/index.html
-[url-roshanravan-alaska-airline]:
+[url-portal-google]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/google/index.html
+[url-roshanravan-alaska-airlines]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/26a1b21f79b93290309d310f6ed83ac5ef0b3c82#diff-12c0462156cd8f8052b77b564b003e1d0ab3886b4d42db47ce03381787b30065
 [url-roshanravan-amazon]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/26a1b21f79b93290309d310f6ed83ac5ef0b3c82#diff-454de47dc3f9f980011f78215de6f76df785b08a2299e066b5159fc877722c6d
