@@ -25,28 +25,28 @@
 
 ## Examples <a name="examples"></a>
 
-| Portal            | Preview                                                          | Inspired By                                                               |
-| ----------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| AT&T              | To do...                                                         |                                                                           |
-| Alaska Airlines   | [portals/alaska-airlines/index.html][url-portal-alaska-airlines] | [@roshanravan][url-roshanravan] - [link][url-roshanravan-alaska-airlines] |
-| Amazon            | [portals/amazon/index.html][url-portal-amazon]                   | [@roshanravan][url-roshanravan] - [link][url-roshanravan-amazon]          |
-| Apple             | To do...                                                         |                                                                           |
-| Delta Airlines    | To do...                                                         |                                                                           |
-| Discord           | To do...                                                         |                                                                           |
-| Facebook          | To do...                                                         |                                                                           |
-| Google            | [portals/google/index.html][url-portal-google]                   | [@breaching][url-breaching] - [link][url-breaching-google]                |
-| Instagram         | To do...                                                         |                                                                           |
-| Microsoft         | To do...                                                         |                                                                           |
-| Microsoft 365     | To do...                                                         |                                                                           |
-| Southwest Airline | To do...                                                         |                                                                           |
-| Spectrum          | To do...                                                         |                                                                           |
-| Spirit Airlines   | To do...                                                         |                                                                           |
-| Starbucks         | To do...                                                         |                                                                           |
-| Starlink          | To do...                                                         |                                                                           |
-| T-Mobile          | To do...                                                         |                                                                           |
-| Twitch            | To do...                                                         |                                                                           |
-| United Airlines   | To do...                                                         |                                                                           |
-| X / Twitter       | To do...                                                         |                                                                           |
+| Portal            | Preview                                                              | Size    | Inspired By                                                                          |
+| ----------------- | -------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------ |
+| Alaska Airlines   | [portals/alaska-airlines/index.html][url-portal-alaska-airlines]     | 2.75 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-alaska-airlines]            |
+| Amazon            | [portals/amazon/index.html][url-portal-amazon]                       | 3.97 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-amazon]                     |
+| Apple             | [portals/apple/index.html][url-portal-apple]                         | 5.32 KB | [@jules0835][url-jules0835] - [link][url-jules0835-apple]                            |
+| AT&T              | [portals/att/index.html][url-portal-att]                             | 3.80 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-att]                        |
+| Delta Airlines    | [portals/delta-airlines/index.html][url-portal-delta-airlines]       | 2.50 KB | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-delta-airlines]    |
+| Discord           | To do...                                                             |         |                                                                                      |
+| Facebook          | To do...                                                             |         |                                                                                      |
+| Google            | [portals/google/index.html][url-portal-google]                       | 5.28 KB | [@breaching][url-breaching] - [link][url-breaching-google]                           |
+| Instagram         | To do...                                                             |         |                                                                                      |
+| Microsoft         | To do...                                                             |         |                                                                                      |
+| Microsoft 365     | To do...                                                             |         |                                                                                      |
+| Southwest Airline | [portals/southwest-airline/index.html][url-portal-southwest-airline] | 3.72 KB | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-southwest-airline] |
+| Spectrum          | To do...                                                             |         |                                                                                      |
+| Spirit Airlines   | To do...                                                             |         |                                                                                      |
+| Starbucks         | To do...                                                             |         |                                                                                      |
+| Starlink          | To do...                                                             |         |                                                                                      |
+| T-Mobile          | To do...                                                             |         |                                                                                      |
+| Twitch            | To do...                                                             |         |                                                                                      |
+| United Airlines   | To do...                                                             |         |                                                                                      |
+| X / Twitter       | To do...                                                             |         |                                                                                      |
 
 <p align="right">[ <a href="#index">Index</a> ]</p>
 
@@ -235,27 +235,47 @@ Cody Tolene
 [img-info]: .github/images/ng-icons/info.svg
 [img-warning]: .github/images/ng-icons/warn.svg
 
-<!-- LINK REFERENCES -->
+<!-- PORTAL LINK REFERENCES -->
 
-[url-breaching]: https://github.com/breaching
-[url-breaching-google]:
-  https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/09c66bbb310ea1a1f90b1e00a27b1e90ab5a0d3d#diff-4ef8251f8a9bf3dd2cf37224d237cbaa64ee7607660f28ce37b92e085d217059
-[url-btc]:
-  https://www.blockchain.com/explorer/addresses/btc/bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt
-[url-lambda-guru]: https://www.lambda.guru/
-[url-new-issue]: https://github.com/CodyTolene/Red-Portals/issues
 [url-portal-alaska-airlines]:
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/alaska-airlines/index.html
 [url-portal-amazon]:
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/amazon/index.html
+[url-portal-apple]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/apple/index.html
+[url-portal-att]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/att/index.html
+[url-portal-delta-airlines]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/delta-airlines/index.html
 [url-portal-google]:
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/google/index.html
+[url-portal-southwest-airline]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/southwest-airline/index.html
+
+<!-- USER & USER CODE REFERENCES -->
+
+[url-bigbrodude6119-delta-airlines]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/281f8ffe25f08fa88fe8c334c89131f65c5a2afb#diff-b4fc76e467b7b429434070c839f1b16037169fe808dff2d70e475f30bf15de3e
+[url-bigbrodude6119-southwest-airline]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/281f8ffe25f08fa88fe8c334c89131f65c5a2afb#diff-7894c2218212dc767afe6401c249f74c0de3381111a2bddc6721ef9900ec4ce8
+[url-bigbrodude6119]: https://github.com/bigbrodude6119
+[url-breaching-google]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/09c66bbb310ea1a1f90b1e00a27b1e90ab5a0d3d#diff-4ef8251f8a9bf3dd2cf37224d237cbaa64ee7607660f28ce37b92e085d217059
+[url-breaching]: https://github.com/breaching
+[url-jules0835-apple]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/b5adc38657ac7c7429c576afc261c4642fd55e09#diff-60c8686fd67fcb8612617383e99aa380eee28a17d3c0c8bcf54621e3884b4615
+[url-jules0835]: https://github.com/jules0835
 [url-roshanravan-alaska-airlines]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/26a1b21f79b93290309d310f6ed83ac5ef0b3c82#diff-12c0462156cd8f8052b77b564b003e1d0ab3886b4d42db47ce03381787b30065
 [url-roshanravan-amazon]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/26a1b21f79b93290309d310f6ed83ac5ef0b3c82#diff-454de47dc3f9f980011f78215de6f76df785b08a2299e066b5159fc877722c6d
+[url-roshanravan-att]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/cc3762fddc15936a03179fb8a189be8dd0811d27#diff-c47616c5a20cac7efef1b90e688946d627c7ce28c1b105657e0bfefdc475a8e0
 [url-roshanravan]: https://github.com/roshanravan
 
-<!---------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------->
+<!-- OTHER LINK REFERENCES -->
+
+[url-btc]:
+  https://www.blockchain.com/explorer/addresses/btc/bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt
+[url-lambda-guru]: https://www.lambda.guru/
+[url-new-issue]: https://github.com/CodyTolene/Red-Portals/issues
