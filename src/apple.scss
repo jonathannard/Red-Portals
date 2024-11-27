@@ -1,0 +1,115 @@
+$color-gray-lighter: #d2d2d7;
+$color-gray-medium: #cccccc;
+$color-white: #ffffff;
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box; // Prevent padding from adding extra width
+}
+
+body {
+  align-items: center;
+  display: flex;
+  font-family:
+    SF Pro Display,
+    SF Pro Icons,
+    Helvetica Neue,
+    Helvetica,
+    Arial,
+    sans-serif;
+  font-size: 16px;
+  justify-content: center;
+  margin: 0;
+  min-height: 100vh;
+  padding: 0;
+
+  main {
+    width: 420px;
+    margin: 0 auto;
+
+    header {
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      padding: 1rem;
+
+      svg {
+        margin-bottom: 1rem;
+      }
+
+      h1,
+      h2 {
+        margin: 0;
+      }
+    }
+    section > form {
+      display: flex;
+      flex-direction: column;
+      padding: 0;
+      width: 100%;
+
+      input {
+        width: 100%; // Ensure inputs span the parent width
+        border-radius: 10px;
+        border: 1px solid $color-gray-lighter;
+        font-size: 1rem;
+        padding: 0.75rem;
+
+        &:first-of-type {
+          border-bottom-left-radius: 0;
+          border-bottom-right-radius: 0;
+        }
+
+        &:last-of-type {
+          border-top-left-radius: 0;
+          border-top-right-radius: 0;
+          border-top: 0px solid transparent;
+        }
+      }
+
+      button {
+        background: 0 0;
+        border: none;
+        color: inherit;
+        cursor: pointer;
+        font: inherit;
+        margin: 1rem auto;
+        padding: 0;
+        max-width: 48px;
+      }
+
+      p {
+        font-size: 0.75rem;
+        margin: 0.5rem 0;
+
+        a {
+          text-decoration: none;
+        }
+
+        &:first-of-type {
+          margin-top: 0;
+        }
+
+        &:last-of-type {
+          margin-bottom: 0;
+        }
+      }
+    }
+  }
+
+  footer {
+    background: $color-white;
+    bottom: 0;
+    color: $color-gray-medium;
+    font-size: 0.75rem;
+    padding: 0.5rem 0;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+
+    p {
+      margin: 0;
+    }
+  }
+}
