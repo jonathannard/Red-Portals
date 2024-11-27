@@ -1,22 +1,25 @@
 // Colors
 $color-black-light: #111111;
-$color-gray-darker: #333333;
-$color-gray-light: #dddddd;
-$color-gray-medium: #cccccc;
+$color-blue-dark: #00385f;
+$color-gray-dark: #808080;
+$color-gray-light: #cccccc;
+$color-gray-lighter: #dddddd;
+$color-green-dark: #388e3c;
+$color-green-light: #4caf50;
 $color-white: #ffffff;
-$color-yellow-dark: #f0b800;
-$color-yellow-light: #ffd814;
 
 body {
   align-items: center;
-  background-color: $color-white;
+  background-color: $color-gray-lighter;
   color: $color-black-light;
   display: flex;
   flex-direction: column;
   font-family: Arial, sans-serif;
   font-size: 14px;
+  height: 100vh;
+  justify-content: center;
   margin: 0;
-  padding: 1rem 1.5rem;
+  padding: 0;
 }
 
 header {
@@ -24,59 +27,63 @@ header {
   display: flex;
   justify-content: center;
   margin-bottom: 1rem;
-  min-height: 60px;
 }
 
 main > section {
   background-color: $color-white;
   border-radius: 4px;
-  border: 1px solid $color-gray-light;
+  border: 1px solid $color-gray-lighter;
   max-width: 320px;
   padding: 1rem;
-
-  @media (max-width: 768px) {
-    max-width: 100%;
-  }
+  width: 100%;
 
   h2 {
     font-weight: 500;
     margin: 0 0 1rem 0;
+    text-align: center;
   }
 
   form {
     input {
       border-radius: 4px;
-      border: 1px solid $color-gray-medium;
+      border: 1px solid $color-gray-light;
       box-sizing: border-box;
       font-size: 14px;
       margin-bottom: 20px;
       padding: 12px;
       width: 100%;
+
+      &:focus {
+        outline-offset: 2px;
+        outline: 2px solid $color-blue-dark;
+      }
     }
 
     button {
-      background: $color-yellow-light;
-      border-radius: 0.5rem;
+      background-color: $color-green-light;
+      border-radius: 4px;
       border: none;
-      color: $color-gray-darker;
+      color: $color-white;
       cursor: pointer;
       font-size: 1rem;
       padding: 0.75rem 1rem;
+      transition: background-color 0.3s ease;
       width: 100%;
 
       &:hover {
-        background: $color-yellow-dark;
+        background-color: $color-green-dark;
       }
     }
   }
 }
 
 footer {
-  background: $color-white;
+  background-color: $color-gray-lighter;
   bottom: 0;
-  color: $color-gray-medium;
+  color: $color-gray-dark;
   font-size: 0.75rem;
-  padding: 0.5rem 0;
+  margin-top: 1rem;
+  padding-bottom: 0.5rem;
   position: absolute;
   text-align: center;
   width: 100%;

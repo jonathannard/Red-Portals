@@ -1,10 +1,10 @@
 {
   "name": "red-portals",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "license": "MIT",
   "scripts": {
-    "build": "npm run format && npx eleventy",
-    "build:watch": "npm run format && npx eleventy --serve",
+    "build": "npx eleventy",
+    "build:watch": "npx eleventy --serve",
     "format": "prettier --write src/",
     "format:check": "prettier --check src/",
     "prepare": "husky"
