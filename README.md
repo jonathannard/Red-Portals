@@ -35,7 +35,7 @@
 | Discord           | [portals/discord/index.html][url-portal-discord]                     | 6.48 KB | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-discord]                    |
 | Facebook          | [portals/facebook/index.html][url-portal-facebook]                   | 2.65 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-facebook]                   |
 | Google            | [portals/google/index.html][url-portal-google]                       | 5.28 KB | [@breaching][url-breaching] - [link][url-breaching-google]                           |
-| Instagram         | To do...                                                             |         |                                                                                      |
+| Instagram         | [portals/instagram/index.html][url-portal-instagram]                 | 4.01 KB | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-instagram]                  |
 | Microsoft         | To do...                                                             |         |                                                                                      |
 | Microsoft 365     | To do...                                                             |         |                                                                                      |
 | Southwest Airline | [portals/southwest-airline/index.html][url-portal-southwest-airline] | 3.72 KB | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-southwest-airline] |
@@ -254,6 +254,8 @@ Cody Tolene
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/facebook/index.html
 [url-portal-google]:
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/google/index.html
+[url-portal-instagram]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/instagram/index.html
 [url-portal-southwest-airline]:
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/southwest-airline/index.html
 
@@ -269,6 +271,8 @@ Cody Tolene
 [url-breaching]: https://github.com/breaching
 [url-jmcrafter26-discord]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/blob/663975b441bc5ace4d47457d8826a4a181701fd2/portals/Discord.html#L1
+[url-jmcrafter26-instagram]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/blob/663975b441bc5ace4d47457d8826a4a181701fd2/portals/instagram_realistic.html#L1
 [url-jmcrafter26]: https://github.com/JMcrafter26
 [url-jules0835-apple]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/b5adc38657ac7c7429c576afc261c4642fd55e09#diff-60c8686fd67fcb8612617383e99aa380eee28a17d3c0c8bcf54621e3884b4615

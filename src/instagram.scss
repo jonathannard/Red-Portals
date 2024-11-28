@@ -1,13 +1,11 @@
 // Colors
 $color-background: #f2f4f7;
 $color-black-light: #111111;
-$color-blue-background: #1877f2;
+$color-blue-background: #0095f6;
 $color-blue-hover: #166fe5;
 $color-blue: #304cb2;
 $color-gray-light: #cccccc;
 $color-gray: #999999;
-$color-notice-background: #fff9d7;
-$color-notice-border: #e2c822;
 $color-shadow: rgba(0, 0, 0, 0.1);
 $color-white: #ffffff;
 
@@ -60,14 +58,6 @@ main {
       text-align: center;
       font-weight: 600;
       margin: 1rem 0;
-    }
-
-    div.notice {
-      background-color: $color-notice-background;
-      border: 1px solid $color-notice-border;
-      font-size: 0.75rem;
-      padding: 0.75rem 1rem;
-      text-align: center;
     }
 
     form {
