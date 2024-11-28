@@ -1,6 +1,6 @@
 {
   "name": "red-portals",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "license": "MIT",
   "scripts": {
     "build": "npx eleventy",
