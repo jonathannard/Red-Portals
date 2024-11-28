@@ -36,9 +36,9 @@
 | Facebook          | [portals/facebook/index.html][url-portal-facebook]                   | 2.65 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-facebook]                   |
 | Google            | [portals/google/index.html][url-portal-google]                       | 5.28 KB | [@breaching][url-breaching] - [link][url-breaching-google]                           |
 | Instagram         | [portals/instagram/index.html][url-portal-instagram]                 | 4.01 KB | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-instagram]                  |
-| Microsoft         | [portals/microsoft/index.html][url-portal-microsoft]                 | 4.68 KB | [@Awlexegrecki][url-awlexegrecki] - [link][url-awlexegrecki-microsoft]               |
+| Microsoft         | [portals/microsoft/index.html][url-portal-microsoft]                 | 4.69 KB | [@Awlexegrecki][url-awlexegrecki] - [link][url-awlexegrecki-microsoft]               |
 | Southwest Airline | [portals/southwest-airline/index.html][url-portal-southwest-airline] | 3.72 KB | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-southwest-airline] |
-| Spectrum          | To do...                                                             |         |                                                                                      |
+| Spectrum          | [portals/spectrum/index.html][url-portal-spectrum]                   | 3.20 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-spectrum]                   |
 | Spirit Airlines   | To do...                                                             |         |                                                                                      |
 | Starbucks         | To do...                                                             |         |                                                                                      |
 | Starlink          | To do...                                                             |         |                                                                                      |
@@ -259,6 +259,8 @@ Cody Tolene
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/microsoft/index.html
 [url-portal-southwest-airline]:
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/southwest-airline/index.html
+[url-portal-spectrum]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/spectrum/index.html
 
 <!-- USER & USER CODE REFERENCES -->
 
@@ -289,6 +291,8 @@ Cody Tolene
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/cc3762fddc15936a03179fb8a189be8dd0811d27#diff-c47616c5a20cac7efef1b90e688946d627c7ce28c1b105657e0bfefdc475a8e0
 [url-roshanravan-facebook]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/10d6a69097d208e09363650e7af9a12c6979e612#diff-34b755e23907f7e47b7f990a45b11221112bd41d1fda0c52bb8a324dd67e1f5e
+[url-roshanravan-spectrum]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/8a13000642eb6d337aeced1c022efa5fdebdb83d#diff-3065c554bc6b2a48213a9fc993c00ba666ea31e05687c1b0cb84010a7b58b07f
 [url-roshanravan]: https://github.com/roshanravan
 
 <!-- OTHER LINK REFERENCES -->
