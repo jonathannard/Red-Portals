@@ -1,16 +1,19 @@
 // Colors
+$color-background: #f2f4f7;
 $color-black-light: #111111;
-$color-gray: #999;
-$color-gray-light: #cccccc;
-$color-gray-lighter: #dddddd;
-$color-white: #ffffff;
-$color-blue-darker: #143f85;
-$color-blue-dark: #1a4a8f;
+$color-blue-background: #1877f2;
+$color-blue-hover: #166fe5;
 $color-blue: #304cb2;
+$color-gray-light: #cccccc;
+$color-gray: #999999;
+$color-notice-background: #fff9d7;
+$color-notice-border: #e2c822;
+$color-shadow: rgba(0, 0, 0, 0.1);
+$color-white: #ffffff;
 
 body {
   align-items: center;
-  background-color: #f2f4f7;
+  background-color: $color-background;
   color: $color-black-light;
   display: flex;
   flex-direction: column;
@@ -40,10 +43,9 @@ main {
   border-radius: 0.5rem;
   padding: 1rem;
   width: 320px;
-
   box-shadow:
-    0px 2px 4px rgba(0, 0, 0, 0.1),
-    0px 8px 16px rgba(0, 0, 0, 0.1);
+    0px 2px 4px $color-shadow,
+    0px 8px 16px $color-shadow;
   width: 400px;
 
   @media (max-width: 768px) {
@@ -61,8 +63,8 @@ main {
     }
 
     div.notice {
-      background-color: #fff9d7;
-      border: 1px solid #e2c822;
+      background-color: $color-notice-background;
+      border: 1px solid $color-notice-border;
       font-size: 0.75rem;
       padding: 0.75rem 1rem;
       text-align: center;
@@ -82,7 +84,7 @@ main {
       }
 
       button {
-        background: #1877f2;
+        background: $color-blue-background;
         border-radius: 0.5rem;
         border: none;
         color: $color-white;
@@ -93,7 +95,7 @@ main {
         width: 100%;
 
         &:hover {
-          background: #166fe5;
+          background: $color-blue-hover;
         }
       }
 
