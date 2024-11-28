@@ -1,0 +1,100 @@
+// Colors
+$background-color: #f6f8fa;
+$container-bg: #ffffff;
+$text-color: #000000;
+$input-border: #cccccc;
+$button-bg: #0076bc;
+$button-hover-bg: #005999;
+$color-black-light: #111111;
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: $background-color;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+main {
+  text-align: center;
+  background-color: $container-bg;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  padding: 2rem;
+  width: 80%;
+  max-width: 300px;
+
+  header {
+    svg {
+      width: 50%;
+      height: auto;
+    }
+  }
+
+  section {
+    h1 {
+      color: $text-color;
+      margin: 0.5rem 0;
+    }
+
+    p {
+      margin: 0;
+      font-size: 0.8rem;
+      color: #666;
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      margin-top: 1rem;
+
+      input {
+        margin: 0.5rem 0;
+        padding: 0.625rem;
+        border: 1px solid $input-border;
+        border-radius: 0.25rem;
+        outline: none;
+
+        &:focus {
+          border-color: $button-bg;
+        }
+      }
+
+      button {
+        margin: 0.5rem 0;
+        padding: 0.625rem;
+        color: #fff;
+        background-color: $button-bg;
+        border: none;
+        border-radius: 0.25rem;
+        cursor: pointer;
+
+        &:hover {
+          background-color: $button-hover-bg;
+        }
+      }
+    }
+  }
+}
+
+footer {
+  bottom: 0;
+  color: $color-black-light;
+  font-size: 0.75rem;
+  padding: 0.5rem 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+
+  p {
+    margin: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  main {
+    width: 95%;
+  }
+}

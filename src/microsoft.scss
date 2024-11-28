@@ -1,0 +1,122 @@
+// Colors
+$container-bg: #ffffff;
+$text-color: #1b1b1b;
+$link-color: #3a8ac8;
+$link-hover-color: #005299;
+$input-border: #cccccc;
+$button-bg: #0067b8;
+$button-hover-bg: #005299;
+$color-black-light: #111111;
+
+body {
+  align-items: center;
+  background: linear-gradient(
+    120deg,
+    #eadcd7 0%,
+    #dbdbde 25%,
+    #dee0e0 50%,
+    #dae4eb 75%,
+    #ede8d2 100%
+  );
+  display: flex;
+  font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  height: 100vh;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  background-color: $container-bg;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  margin: auto;
+  max-width: 400px;
+  padding: 2.5rem;
+
+  > header > svg {
+    display: block;
+    margin: 0;
+  }
+
+  > section > form {
+    margin: 0 auto;
+    max-width: 300px;
+
+    h1 {
+      color: $text-color;
+      font-size: 1.5rem;
+      font-weight: 600;
+      margin: 0.75rem 0;
+      text-align: left;
+    }
+
+    input {
+      border: none;
+      border-bottom: 1px solid $input-border;
+      box-sizing: border-box;
+      margin: 0.5rem 0;
+      outline: none;
+      padding: 0.5rem 0.35rem 0.5rem 0;
+      width: 100%;
+
+      &:focus {
+        border-bottom: 1px solid $link-color;
+      }
+    }
+
+    > div {
+      display: flex;
+      flex-direction: column;
+      font-size: 0.8125rem;
+      font-weight: normal;
+      margin: 1rem 0;
+      text-align: left;
+
+      span {
+        margin-bottom: 1rem;
+      }
+
+      a {
+        color: $link-color;
+        text-decoration: none;
+
+        &:hover {
+          color: $link-hover-color;
+          text-decoration: underline;
+        }
+      }
+    }
+
+    button {
+      background-color: $button-bg;
+      border: none;
+      color: #fff;
+      cursor: pointer;
+      float: right;
+      margin: 0.5rem 0;
+      min-width: 100px;
+      padding: 0.5rem;
+      text-align: center;
+      text-overflow: ellipsis;
+
+      &:hover {
+        background-color: $button-hover-bg;
+      }
+    }
+  }
+}
+
+footer {
+  bottom: 0;
+  color: $color-black-light;
+  font-size: 0.75rem;
+  padding: 0.5rem 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+
+  p {
+    margin: 0;
+  }
+}
