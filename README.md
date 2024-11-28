@@ -27,12 +27,12 @@
 
 | Portal            | Preview                                                              | Size    | Inspired By                                                                          |
 | ----------------- | -------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------ |
-| Alaska Airlines   | [portals/alaska-airlines/index.html][url-portal-alaska-airlines]     | 2.75 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-alaska-airlines]            |
-| Amazon            | [portals/amazon/index.html][url-portal-amazon]                       | 3.97 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-amazon]                     |
-| Apple             | [portals/apple/index.html][url-portal-apple]                         | 5.32 KB | [@jules0835][url-jules0835] - [link][url-jules0835-apple]                            |
-| AT&T              | [portals/att/index.html][url-portal-att]                             | 3.80 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-att]                        |
-| Delta Airlines    | [portals/delta-airlines/index.html][url-portal-delta-airlines]       | 2.50 KB | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-delta-airlines]    |
-| Discord           | [portals/discord/index.html][url-portal-discord]                     | 6.29 KB | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-discord]                    |
+| Alaska Airlines   | [portals/alaska-airlines/index.html][url-portal-alaska-airlines]     | 2.74 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-alaska-airlines]            |
+| Amazon            | [portals/amazon/index.html][url-portal-amazon]                       | 3.95 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-amazon]                     |
+| Apple             | [portals/apple/index.html][url-portal-apple]                         | 5.28 KB | [@jules0835][url-jules0835] - [link][url-jules0835-apple]                            |
+| AT&T              | [portals/att/index.html][url-portal-att]                             | 3.83 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-att]                        |
+| Delta Airlines    | [portals/delta-airlines/index.html][url-portal-delta-airlines]       | 2.54 KB | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-delta-airlines]    |
+| Discord           | [portals/discord/index.html][url-portal-discord]                     | 6.48 KB | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-discord]                    |
 | Facebook          | To do...                                                             |         |                                                                                      |
 | Google            | [portals/google/index.html][url-portal-google]                       | 5.28 KB | [@breaching][url-breaching] - [link][url-breaching-google]                           |
 | Instagram         | To do...                                                             |         |                                                                                      |
