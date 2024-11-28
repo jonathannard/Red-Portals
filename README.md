@@ -32,7 +32,7 @@
 | Apple             | [portals/apple/index.html][url-portal-apple]                         | 5.32 KB | [@jules0835][url-jules0835] - [link][url-jules0835-apple]                            |
 | AT&T              | [portals/att/index.html][url-portal-att]                             | 3.80 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-att]                        |
 | Delta Airlines    | [portals/delta-airlines/index.html][url-portal-delta-airlines]       | 2.50 KB | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-delta-airlines]    |
-| Discord           | To do...                                                             |         |                                                                                      |
+| Discord           | [portals/discord/index.html][url-portal-discord]                     | 6.29 KB | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-discord]                    |
 | Facebook          | To do...                                                             |         |                                                                                      |
 | Google            | [portals/google/index.html][url-portal-google]                       | 5.28 KB | [@breaching][url-breaching] - [link][url-breaching-google]                           |
 | Instagram         | To do...                                                             |         |                                                                                      |
@@ -247,6 +247,8 @@ Cody Tolene
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/att/index.html
 [url-portal-delta-airlines]:
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/delta-airlines/index.html
+[url-portal-discord]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/discord/index.html
 [url-portal-google]:
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/google/index.html
 [url-portal-southwest-airline]:
@@ -262,6 +264,9 @@ Cody Tolene
 [url-breaching-google]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/09c66bbb310ea1a1f90b1e00a27b1e90ab5a0d3d#diff-4ef8251f8a9bf3dd2cf37224d237cbaa64ee7607660f28ce37b92e085d217059
 [url-breaching]: https://github.com/breaching
+[url-jmcrafter26-discord]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/blob/663975b441bc5ace4d47457d8826a4a181701fd2/portals/Discord.html#L1
+[url-jmcrafter26]: https://github.com/JMcrafter26
 [url-jules0835-apple]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/b5adc38657ac7c7429c576afc261c4642fd55e09#diff-60c8686fd67fcb8612617383e99aa380eee28a17d3c0c8bcf54621e3884b4615
 [url-jules0835]: https://github.com/jules0835
