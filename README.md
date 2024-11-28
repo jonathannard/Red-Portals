@@ -36,8 +36,7 @@
 | Facebook          | [portals/facebook/index.html][url-portal-facebook]                   | 2.65 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-facebook]                   |
 | Google            | [portals/google/index.html][url-portal-google]                       | 5.28 KB | [@breaching][url-breaching] - [link][url-breaching-google]                           |
 | Instagram         | [portals/instagram/index.html][url-portal-instagram]                 | 4.01 KB | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-instagram]                  |
-| Microsoft         | To do...                                                             |         |                                                                                      |
-| Microsoft 365     | To do...                                                             |         |                                                                                      |
+| Microsoft         | [portals/microsoft/index.html][url-portal-microsoft]                 | 4.68 KB | [@Awlexegrecki][url-awlexegrecki] - [link][url-awlexegrecki-microsoft]               |
 | Southwest Airline | [portals/southwest-airline/index.html][url-portal-southwest-airline] | 3.72 KB | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-southwest-airline] |
 | Spectrum          | To do...                                                             |         |                                                                                      |
 | Spirit Airlines   | To do...                                                             |         |                                                                                      |
@@ -256,11 +255,16 @@ Cody Tolene
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/google/index.html
 [url-portal-instagram]:
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/instagram/index.html
+[url-portal-microsoft]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/microsoft/index.html
 [url-portal-southwest-airline]:
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/southwest-airline/index.html
 
 <!-- USER & USER CODE REFERENCES -->
 
+[url-awlexegrecki-microsoft]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/blob/ee597f6d1edacc4a72a7687adf4a0e9dab7ae616/portals/Microsoft.html
+[url-awlexegrecki]: https://github.com/Awlexegrecki
 [url-bigbrodude6119-delta-airlines]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/281f8ffe25f08fa88fe8c334c89131f65c5a2afb#diff-b4fc76e467b7b429434070c839f1b16037169fe808dff2d70e475f30bf15de3e
 [url-bigbrodude6119-southwest-airline]:
