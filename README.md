@@ -27,13 +27,13 @@
 
 | Portal            | Preview                                                              | Size    | Inspired By                                                                          |
 | ----------------- | -------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------ |
-| Alaska Airlines   | [portals/alaska-airlines/index.html][url-portal-alaska-airlines]     | 2.75 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-alaska-airlines]            |
-| Amazon            | [portals/amazon/index.html][url-portal-amazon]                       | 3.97 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-amazon]                     |
-| Apple             | [portals/apple/index.html][url-portal-apple]                         | 5.32 KB | [@jules0835][url-jules0835] - [link][url-jules0835-apple]                            |
-| AT&T              | [portals/att/index.html][url-portal-att]                             | 3.80 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-att]                        |
-| Delta Airlines    | [portals/delta-airlines/index.html][url-portal-delta-airlines]       | 2.50 KB | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-delta-airlines]    |
-| Discord           | [portals/discord/index.html][url-portal-discord]                     | 6.29 KB | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-discord]                    |
-| Facebook          | To do...                                                             |         |                                                                                      |
+| Alaska Airlines   | [portals/alaska-airlines/index.html][url-portal-alaska-airlines]     | 2.74 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-alaska-airlines]            |
+| Amazon            | [portals/amazon/index.html][url-portal-amazon]                       | 3.95 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-amazon]                     |
+| Apple             | [portals/apple/index.html][url-portal-apple]                         | 5.28 KB | [@jules0835][url-jules0835] - [link][url-jules0835-apple]                            |
+| AT&T              | [portals/att/index.html][url-portal-att]                             | 3.83 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-att]                        |
+| Delta Airlines    | [portals/delta-airlines/index.html][url-portal-delta-airlines]       | 2.54 KB | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-delta-airlines]    |
+| Discord           | [portals/discord/index.html][url-portal-discord]                     | 6.48 KB | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-discord]                    |
+| Facebook          | [portals/facebook/index.html][url-portal-facebook]                   | 2.65 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-facebook]                   |
 | Google            | [portals/google/index.html][url-portal-google]                       | 5.28 KB | [@breaching][url-breaching] - [link][url-breaching-google]                           |
 | Instagram         | To do...                                                             |         |                                                                                      |
 | Microsoft         | To do...                                                             |         |                                                                                      |
@@ -63,6 +63,7 @@ for use by:
 - Ethical hackers
 - Penetration testers
 - Individuals seeking to understand network vulnerabilities to improve defenses
+- Web developers looking for examples on how to build login pages
 
 Important Usage Guidelines:
 
@@ -249,6 +250,8 @@ Cody Tolene
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/delta-airlines/index.html
 [url-portal-discord]:
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/discord/index.html
+[url-portal-facebook]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/facebook/index.html
 [url-portal-google]:
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/google/index.html
 [url-portal-southwest-airline]:
@@ -276,6 +279,8 @@ Cody Tolene
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/26a1b21f79b93290309d310f6ed83ac5ef0b3c82#diff-454de47dc3f9f980011f78215de6f76df785b08a2299e066b5159fc877722c6d
 [url-roshanravan-att]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/cc3762fddc15936a03179fb8a189be8dd0811d27#diff-c47616c5a20cac7efef1b90e688946d627c7ce28c1b105657e0bfefdc475a8e0
+[url-roshanravan-facebook]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/10d6a69097d208e09363650e7af9a12c6979e612#diff-34b755e23907f7e47b7f990a45b11221112bd41d1fda0c52bb8a324dd67e1f5e
 [url-roshanravan]: https://github.com/roshanravan
 
 <!-- OTHER LINK REFERENCES -->

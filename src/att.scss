@@ -34,11 +34,15 @@ main {
   justify-content: center;
   margin: 1rem auto;
   max-width: 450px;
-  padding: 48px;
+  padding: 4rem;
   width: 100%;
 
   @media (max-width: 768px) {
-    max-width: 768px;
+    border: none;
+    box-sizing: border-box;
+    max-width: 100%;
+    margin: 0;
+    padding: 2rem;
   }
 
   header {
