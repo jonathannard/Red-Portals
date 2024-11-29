@@ -1,0 +1,190 @@
+// Colors
+$color-background: #f2f4f7;
+$color-black-light: #111111;
+$color-black: #000000;
+$color-gray-light: #cccccc;
+$color-gray-medium: #999999;
+$color-green-light: #00a862;
+$color-green-dark: #006400;
+$color-green: #00754a;
+$color-shadow: rgba(0, 0, 0, 0.1);
+$color-white: #ffffff;
+
+body {
+  align-items: center;
+  background-color: $color-white;
+  color: $color-black;
+  display: flex;
+  flex-direction: column;
+  font-family:
+    SoDoSans,
+    Helvetica Neue,
+    Helvetica,
+    Arial,
+    sans-serif;
+  height: 100vh;
+  justify-content: flex-start;
+  margin: 0;
+
+  > h1 {
+    font-weight: 700;
+    padding: 2rem;
+  }
+}
+
+header {
+  align-items: center;
+  background-color: $color-white;
+  box-sizing: border-box;
+  box-shadow:
+    0 1px 3px rgba(0, 0, 0, 0.1),
+    0 2px 2px rgba(0, 0, 0, 0.06),
+    0 0 2px rgba(0, 0, 0, 0.07);
+  display: flex;
+  height: 100px;
+  padding: 0 2rem;
+  width: 100%;
+}
+
+main {
+  background-color: $color-white;
+  border-radius: 1rem;
+  box-shadow:
+    0 2px 4px rgba(0, 0, 0, 0.07),
+    0 4px 5px rgba(0, 0, 0, 0.06),
+    0 1px 10px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  width: 400px;
+
+  @media (max-width: 768px) {
+    box-shadow: none;
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+  }
+
+  > section > p > span {
+    color: $color-green;
+  }
+
+  form {
+    margin-top: 1rem;
+
+    input {
+      border-radius: 4px;
+      border: 1px solid $color-gray-light;
+      box-sizing: border-box;
+      font-size: 1rem;
+      margin-bottom: 1rem;
+      padding: 1rem;
+      width: 100%;
+    }
+
+    .checkbox {
+      display: flex;
+      align-items: center;
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      color: #333;
+      cursor: pointer;
+
+      input {
+        position: absolute;
+        // Accessible but hidden visually
+        // (keyboard support)
+        opacity: 0;
+        height: 0;
+        width: 0;
+      }
+
+      .checkmark {
+        width: 1.25rem;
+        height: 1.25rem;
+        background-color: $color-white;
+        border: 2px solid $color-green-dark;
+        border-radius: 4px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-right: 8px;
+        transition:
+          background-color 0.3s,
+          border-color 0.3s;
+        position: relative;
+
+        &::after {
+          content: '';
+          width: 6px;
+          height: 12px;
+          border: solid $color-white;
+          border-width: 0 2px 2px 0;
+          position: absolute;
+          transform: rotate(45deg);
+          top: 2px;
+          left: 6px;
+          display: none;
+        }
+      }
+
+      input:checked + .checkmark {
+        background-color: $color-green-dark;
+        border-color: $color-green-dark;
+
+        &::after {
+          display: block;
+        }
+      }
+
+      a {
+        color: $color-green-dark;
+        text-decoration: underline;
+        margin-left: 4px;
+
+        &:hover {
+          text-decoration: none;
+        }
+      }
+    }
+
+    a {
+      color: $color-green;
+      display: block;
+      font-weight: 700;
+      margin: 1rem 0;
+      text-decoration: underline;
+
+      &:hover {
+        color: $color-green-light;
+        text-decoration: none;
+      }
+    }
+
+    button {
+      background: $color-green;
+      border-radius: 2rem;
+      border: none;
+      color: $color-white;
+      cursor: pointer;
+      font-size: 1rem;
+      font-weight: 600;
+      float: right;
+      padding: 1rem 1.5rem;
+
+      &:hover {
+        background: $color-green-light;
+      }
+    }
+  }
+}
+
+footer {
+  color: $color-gray-medium;
+  font-size: 0.75rem;
+  margin-top: auto;
+  padding: 0.5rem 0;
+  text-align: center;
+
+  p {
+    margin: 0;
+  }
+}
