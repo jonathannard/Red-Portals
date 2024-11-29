@@ -9,13 +9,12 @@
 
 ## Index <a name="index"></a>
 
-- [Examples](#examples)
-- [Disclaimer & Legal Notice](#disclaimer-legal-notice)
-- [Purpose](#purpose)
+- [Previews](#previews)
 - [What Are "Evil Portals"?](#what-are-evil-portals)
-- [Responsible Use](#responsible-use)
+- [Purpose](#purpose)
 - [Getting Started](#getting-started)
 - [Development](#development)
+- [Disclaimer, Legal Notice, & Responsible Use](#disclaimer-legal-notice-responsible-use)
 - [Licensing](#licensing)
 - [Wrapping Up](#wrapping-up)
 
@@ -23,27 +22,40 @@
 <!---------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------->
 
-## Examples <a name="examples"></a>
+## Previews <a name="previews"></a>
 
-| Portal            | Preview                                                              | Size     | Inspired By                                                                          |
-| ----------------- | -------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------ |
-| Alaska Airlines   | [portals/alaska-airlines/index.html][url-portal-alaska-airlines]     | 2.74 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-alaska-airlines]            |
-| Amazon            | [portals/amazon/index.html][url-portal-amazon]                       | 3.95 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-amazon]                     |
-| Apple             | [portals/apple/index.html][url-portal-apple]                         | 5.28 KB  | [@jules0835][url-jules0835] - [link][url-jules0835-apple]                            |
-| AT&T              | [portals/att/index.html][url-portal-att]                             | 3.83 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-att]                        |
-| Delta Airlines    | [portals/delta-airlines/index.html][url-portal-delta-airlines]       | 2.54 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-delta-airlines]    |
-| Discord           | [portals/discord/index.html][url-portal-discord]                     | 6.48 KB  | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-discord]                    |
-| Facebook          | [portals/facebook/index.html][url-portal-facebook]                   | 2.65 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-facebook]                   |
-| Google            | [portals/google/index.html][url-portal-google]                       | 5.28 KB  | [@breaching][url-breaching] - [link][url-breaching-google]                           |
-| Instagram         | [portals/instagram/index.html][url-portal-instagram]                 | 4.01 KB  | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-instagram]                  |
-| Microsoft         | [portals/microsoft/index.html][url-portal-microsoft]                 | 4.71 KB  | [@Awlexegrecki][url-awlexegrecki] - [link][url-awlexegrecki-microsoft]               |
-| Southwest Airline | [portals/southwest-airline/index.html][url-portal-southwest-airline] | 3.72 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-southwest-airline] |
-| Spectrum          | [portals/spectrum/index.html][url-portal-spectrum]                   | 3.16 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-spectrum]                   |
-| Spirit Airlines   | [portals/spirit-airlines/index.html][url-portal-spirit-airlines]     | 2.55 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-spirit-airlines]            |
-| Starbucks         | [portals/starbucks/index.html][url-portal-starbucks]                 | 10.70 KB | [@kleo][url-kleo] - [link][url-kleo-starbucks]                                       |
-| Starlink          | [portals/starlink/index.html][url-portal-starlink]                   | 3.41 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-starlink]                   |
-| T-Mobile          | [portals/starlink/index.html][url-portal-t-mobile]                   | 2.86 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-t-mobile]          |
-| Verizon           | [portals/starlink/index.html][url-portal-verizon]                    | 2.93 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-verizon]           |
+All templates have been updated to the dates listed below. All templates are
+designed to be
+
+1. As simple, but accurate as possible.
+2. Work on both mobile and desktop
+3. Send a query param payload on form submit as
+   `?login?username=example&password=example`
+4. Be developed as HTML/SCSS but compiled to a single HTML file with inline CSS.
+5. Be compressed. Take note some hardware only supports up to 20 KB at a time.
+
+You may click on any preview below to view it live. All previews are hosted on
+[raw.githack.com][url-githack], a great CDN for your source code!
+
+| Portal            | Preview                                                              | Last Updated | Size     | Inspired By                                                                          |
+| ----------------- | -------------------------------------------------------------------- | ------------ | -------- | ------------------------------------------------------------------------------------ |
+| Alaska Airlines   | [portals/alaska-airlines/index.html][url-portal-alaska-airlines]     | 11/27/2024   | 2.74 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-alaska-airlines]            |
+| Amazon            | [portals/amazon/index.html][url-portal-amazon]                       | 11/27/2024   | 3.95 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-amazon]                     |
+| Apple             | [portals/apple/index.html][url-portal-apple]                         | 11/27/2024   | 5.28 KB  | [@jules0835][url-jules0835] - [link][url-jules0835-apple]                            |
+| AT&T              | [portals/att/index.html][url-portal-att]                             | 11/27/2024   | 3.83 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-att]                        |
+| Delta Airlines    | [portals/delta-airlines/index.html][url-portal-delta-airlines]       | 11/27/2024   | 2.54 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-delta-airlines]    |
+| Discord           | [portals/discord/index.html][url-portal-discord]                     | 11/27/2024   | 6.48 KB  | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-discord]                    |
+| Facebook          | [portals/facebook/index.html][url-portal-facebook]                   | 11/27/2024   | 2.65 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-facebook]                   |
+| Google            | [portals/google/index.html][url-portal-google]                       | 11/27/2024   | 5.28 KB  | [@breaching][url-breaching] - [link][url-breaching-google]                           |
+| Instagram         | [portals/instagram/index.html][url-portal-instagram]                 | 11/27/2024   | 4.01 KB  | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-instagram]                  |
+| Microsoft         | [portals/microsoft/index.html][url-portal-microsoft]                 | 11/27/2024   | 4.71 KB  | [@Awlexegrecki][url-awlexegrecki] - [link][url-awlexegrecki-microsoft]               |
+| Southwest Airline | [portals/southwest-airline/index.html][url-portal-southwest-airline] | 11/27/2024   | 3.72 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-southwest-airline] |
+| Spectrum          | [portals/spectrum/index.html][url-portal-spectrum]                   | 11/27/2024   | 3.16 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-spectrum]                   |
+| Spirit Airlines   | [portals/spirit-airlines/index.html][url-portal-spirit-airlines]     | 11/28/2024   | 2.55 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-spirit-airlines]            |
+| Starbucks         | [portals/starbucks/index.html][url-portal-starbucks]                 | 11/28/2024   | 10.70 KB | [@kleo][url-kleo] - [link][url-kleo-starbucks]                                       |
+| Starlink          | [portals/starlink/index.html][url-portal-starlink]                   | 11/28/2024   | 3.41 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-starlink]                   |
+| T-Mobile          | [portals/starlink/index.html][url-portal-t-mobile]                   | 11/28/2024   | 2.86 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-t-mobile]          |
+| Verizon           | [portals/starlink/index.html][url-portal-verizon]                    | 11/28/2024   | 2.93 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-verizon]           |
 
 <p align="right">[ <a href="#index">Index</a> ]</p>
 
@@ -51,7 +63,104 @@
 <!---------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------->
 
-## ⚠️ Disclaimer and Legal Notice <a name="disclaimer-legal-notice"></a>
+## What Are "Evil Portals"? <a name="what-are-evil-portals"></a>
+
+Evil Portals are custom captive portal systems often used in penetration testing
+to demonstrate security risks. When connected to a rogue AP, users are directed
+to a fake login page, where attackers can attempt to capture credentials or
+inject payloads.
+
+This repository provides:
+
+- Realistic examples of AP-powered login systems ("Evil Portals").
+- Configurable templates for use in controlled and authorized environments.
+- Documentation on how these systems work (this README).
+
+<p align="right">[ <a href="#index">Index</a> ]</p>
+
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+
+## Purpose <a name="purpose"></a>
+
+The goal of this repository is to raise awareness about the vulnerabilities that
+attackers may exploit using "Evil Portals" — captive portals designed to mimic
+legitimate login systems on open access points (APs) or otherwise. By providing
+realistic examples of how these systems operate, this repository aims to:
+
+1. **Educate network administrators and developers** about potential risks.
+2. **Demonstrate the importance of securing wireless networks** against
+   unauthorized access and data interception.
+3. **Help organizations and individuals develop stronger defenses** against
+   phishing and other attacks facilitated by rogue APs.
+
+<p align="right">[ <a href="#index">Index</a> ]</p>
+
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+
+## Getting Started <a name="getting-started"></a>
+
+1. Clone this repository to your machine.
+2. Set up supported hardware:
+
+- A Raspberry Pi W or other [supported hardware][url-lambda-guru] running
+  [Pico-Portal][url-pico-portal].
+- A Flipper Zero Wi-Fi module or similar ESP32-based devices.
+- A Wi-Fi Pineapple or similar device that supports captive portal testing.
+
+3. Use the provided templates from within the `/portals` folder to simulate
+   captive portals in a controlled environment.
+4. Run, preview, and demonstrate with transparency the templates to educate
+   users about the risks of rogue APs and phishing attacks.
+
+<p align="right">[ <a href="#index">Index</a> ]</p>
+
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+
+## Development <a name="development"></a>
+
+This repository is open to contributions that improve the educational value of
+the provided examples. To get started with development:
+
+1. Fork this repository to your GitHub account.
+2. Clone your fork to your local machine.
+3. Create a new branch for your changes.
+4. Ensure node.js and npm are installed on your machine.
+5. Run `npm install` to install dependencies.
+6. Make your changes to the files in the `src/` folder, and test them locally:
+   - Use `npm run build:watch` to watch for changes and rebuild the project.
+   - Navigate to "http://localhost:8080/{filename}/index.html" to view changes
+     (replace `{filename}` with the file you want to view).
+7. Once you're happy with the changes, you can finalize your changes with
+   `npm run build`.
+8. Commit your changes and push them to your fork.
+9. Open a pull request to the main repository here.
+
+> ![Info][img-info] Templates should be designed to work on both mobile and
+> desktop devices.
+
+> ![Info][img-info] Templates should send a query param payload on form submit:
+> `?login?username=example&password=example`.
+
+> ![Info][img-info] Keep examples at less than 20 KB per template. Some hardware
+> only supports up to 20 KB at a time.
+
+> ![Warn][img-warning] Templates must include the notice "This is a simulated
+> template for educational purposes only. Not affiliated with or endorsed by any
+> brand."
+
+<p align="right">[ <a href="#index">Index</a> ]</p>
+
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+<!---------------------------------------------------------------------------->
+
+## ⚠️ Disclaimer, Legal Notice, Responsible Use <a name="disclaimer-legal-notice-responsible-use"></a>
 
 This repository is provided for **educational purposes only** and is intended
 for use by:
@@ -84,53 +193,6 @@ Terms of Use:
 - By using the tools and templates herein, you accept full responsibility for
   ensuring compliance with applicable laws and obtaining proper authorization.
 
-<p align="right">[ <a href="#index">Index</a> ]</p>
-
-<!---------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------->
-
-## Purpose <a name="purpose"></a>
-
-The goal of this repository is to raise awareness about the vulnerabilities that
-attackers may exploit using "Evil Portals" — captive portals designed to mimic
-legitimate login systems on open access points (APs) or otherwise. By providing
-realistic examples and explanations of how these systems operate, this
-repository aims to:
-
-1. **Educate network administrators and developers** about potential risks.
-2. **Demonstrate the importance of securing wireless networks** against
-   unauthorized access and data interception.
-3. **Help organizations and individuals develop stronger defenses** against
-   phishing and other attacks facilitated by rogue APs.
-
-<p align="right">[ <a href="#index">Index</a> ]</p>
-
-<!---------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------->
-
-## What Are "Evil Portals"? <a name="what-are-evil-portals"></a>
-
-Evil Portals are custom captive portal systems often used in penetration testing
-to demonstrate security risks. When connected to a rogue AP, users are directed
-to a fake login page, where attackers can attempt to capture credentials or
-inject payloads.
-
-This repository provides:
-
-- Realistic examples of AP-powered login systems ("Evil Portals").
-- Configurable templates for use in controlled and authorized environments.
-- Documentation on how these systems work and how to mitigate risks.
-
-<p align="right">[ <a href="#index">Index</a> ]</p>
-
-<!---------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------->
-
-## Responsible Use <a name="responsible-use"></a>
-
 This repository is designed to be a teaching tool for ethical purposes. Users
 are expected to:
 
@@ -139,54 +201,6 @@ are expected to:
 - Inform and educate stakeholders about the risks and solutions.
 - Never deploy these tools in a way that causes harm, theft, or deception
   without consent.
-
-Using these tools responsibly contributes to a safer digital landscape by making
-individuals and organizations aware of potential threats.
-
-<p align="right">[ <a href="#index">Index</a> ]</p>
-
-<!---------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------->
-
-## Getting Started <a name="getting-started"></a>
-
-1. Clone this repository to your machine.
-2. Set up a Raspberry Pi or other [supported hardware][url-lambda-guru] as an
-   access point.
-3. Use the provided templates from within the `/portals` folder to simulate
-   captive portals in a controlled environment.
-4. Review the provided documentation to understand how attackers exploit this
-   technique — and how to defend against it.
-
-<p align="right">[ <a href="#index">Index</a> ]</p>
-
-<!---------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------->
-<!---------------------------------------------------------------------------->
-
-## Development <a name="development"></a>
-
-This repository is open to contributions that improve the educational value of
-the provided examples. To get started with development:
-
-1. Fork this repository to your GitHub account.
-2. Clone your fork to your local machine.
-3. Create a new branch for your changes.
-4. Ensure node.js and npm are installed on your machine.
-5. Run `npm install` to install dependencies.
-6. Make your changes to the files in the `src/` folder, and test them locally:
-   - Use `npm run build:watch` to watch for changes and rebuild the project.
-   - Navigate to "http://localhost:8080/{filename}/index.html" to view changes
-     (replace `{filename}` with the file you want to view).
-7. Once you're happy with the changes, you can finalize your changes with
-   `npm run build`.
-8. Commit your changes and push them to your fork.
-9. Open a pull request to the main repository here.
-
-> ![Warn][img-warning] Templates must include the notice "This is a simulated
-> template for educational purposes only. Not affiliated with or endorsed by any
-> brand."
 
 <p align="right">[ <a href="#index">Index</a> ]</p>
 
@@ -318,5 +332,7 @@ Cody Tolene
 
 [url-btc]:
   https://www.blockchain.com/explorer/addresses/btc/bc1qfx3lvspkj0q077u3gnrnxqkqwyvcku2nml86wmudy7yf2u8edmqq0a5vnt
+[url-githack]: https://raw.githack.com/
 [url-lambda-guru]: https://www.lambda.guru/
 [url-new-issue]: https://github.com/CodyTolene/Red-Portals/issues
+[url-pico-portal]: https://github.com/CodyTolene/Pico-Portal
