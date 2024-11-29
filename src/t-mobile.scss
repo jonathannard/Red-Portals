@@ -1,0 +1,146 @@
+// Colors
+$color-black: #1d2329;
+$color-blue-light: #6ea8fe;
+$color-blue: #0d6efd;
+$color-blue-focus: #86b7fe;
+$color-blue-dark: #0d6efd40;
+$color-pink: #e20074;
+$color-gray-lighter: #e3e5e8;
+$color-gray-light: #cccccc;
+$color-gray-border: #495057;
+$color-gray-shadow-light: rgba(0, 0, 0, 0.1);
+$color-white: #ffffff;
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-direction: column;
+  background-color: $color-pink;
+  color: $color-white;
+  font-family:
+    system-ui,
+    -apple-system,
+    'Segoe UI',
+    Roboto,
+    'Helvetica Neue',
+    'Noto Sans',
+    'Liberation Sans',
+    Arial,
+    sans-serif,
+    'Apple Color Emoji',
+    'Segoe UI Emoji',
+    'Segoe UI Symbol',
+    'Noto Color Emoji';
+  font-size: 16px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 450px;
+  padding: 4rem;
+  margin: 1rem auto;
+
+  @media (max-width: 768px) {
+    box-sizing: border-box;
+    max-width: 100%;
+    margin: 0;
+    padding: 2rem;
+  }
+
+  header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+
+    svg {
+      margin-bottom: 1rem;
+    }
+
+    h2 {
+      font-size: 2rem;
+      margin: 0;
+      text-indent: -0.05em;
+    }
+
+    p {
+      margin: 0 0 2rem 0;
+    }
+  }
+
+  section {
+    width: 100%;
+
+    > form {
+      > input {
+        border-radius: 4px;
+        border: 1px solid $color-gray-border;
+        box-sizing: border-box;
+        font-size: 1rem;
+        margin-bottom: 1.5rem;
+        padding: 1rem;
+        width: 100%;
+        cursor: text;
+      }
+
+      p {
+        &:first-of-type {
+          margin-top: 0;
+        }
+
+        &:last-of-type {
+          margin-bottom: 1.5rem;
+        }
+
+        a {
+          color: $color-white;
+
+          &:hover {
+            color: $color-black;
+          }
+        }
+      }
+
+      button {
+        padding: 0.75rem 1rem;
+        font-size: 1rem;
+        color: $color-pink;
+        background: $color-white;
+        border: none;
+        border-radius: 0.35rem;
+        cursor: pointer;
+        width: 100%;
+
+        &:hover {
+          color: $color-black;
+        }
+      }
+    }
+  }
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: $color-gray-light;
+  font-size: 0.75rem;
+  padding: 0.5rem 0;
+
+  p {
+    margin: 0;
+  }
+}
