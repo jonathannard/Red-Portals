@@ -34,6 +34,9 @@ to:
 4. Be developed as HTML/SCSS but compiled to a single HTML file with inline CSS.
 5. Be compressed. Take note some hardware only supports displaying up to 20 KB
    templates at a time.
+6. Not use any JavaScript, vanilla HTML and CSS only. You may optionally add JS
+   payloads yourself. See the [Development](#development) section for more
+   information.
 
 > ![Info][img-info] All previews are hosted on [raw.githack.com][url-githack], a
 > great CDN for source code!
