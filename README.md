@@ -43,9 +43,7 @@
 | Starbucks         | [portals/starbucks/index.html][url-portal-starbucks]                 | 10.70 KB | [@kleo][url-kleo] - [link][url-kleo-starbucks]                                       |
 | Starlink          | [portals/starlink/index.html][url-portal-starlink]                   | 3.41 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-starlink]                   |
 | T-Mobile          | [portals/starlink/index.html][url-portal-t-mobile]                   | 2.86 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-t-mobile]          |
-| Twitch            | To do...                                                             |          |                                                                                      |
-| United Airlines   | To do...                                                             |          |                                                                                      |
-| X / Twitter       | To do...                                                             |          |                                                                                      |
+| Verizon           | [portals/starlink/index.html][url-portal-verizon]                    | 2.93 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-verizon]           |
 
 <p align="right">[ <a href="#index">Index</a> ]</p>
 
@@ -269,6 +267,8 @@ Cody Tolene
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/starlink/index.html
 [url-portal-t-mobile]:
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/t-mobile/index.html
+[url-portal-verizon]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/verizon/index.html
 
 <!-- USER & USER CODE REFERENCES -->
 
@@ -281,6 +281,8 @@ Cody Tolene
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/281f8ffe25f08fa88fe8c334c89131f65c5a2afb#diff-7894c2218212dc767afe6401c249f74c0de3381111a2bddc6721ef9900ec4ce8
 [url-bigbrodude6119-t-mobile]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/9cbec168ab50724913e9a4e83b2e6b47fa955d7f#diff-8449df4d65846b35f8c364687937fb9ba8ca09ad2397978fc9a5e19da06c711a
+[url-bigbrodude6119-verizon]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/9cbec168ab50724913e9a4e83b2e6b47fa955d7f#diff-97ea6f2e581d6aaad48433a780cb6f564b57e233465f3fc1fa01b942daea07d0
 [url-bigbrodude6119]: https://github.com/bigbrodude6119
 [url-breaching-google]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/09c66bbb310ea1a1f90b1e00a27b1e90ab5a0d3d#diff-4ef8251f8a9bf3dd2cf37224d237cbaa64ee7607660f28ce37b92e085d217059
