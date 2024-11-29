@@ -25,27 +25,25 @@
 
 ## Examples <a name="examples"></a>
 
-| Portal            | Preview                                                              | Size    | Inspired By                                                                          |
-| ----------------- | -------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------ |
-| Alaska Airlines   | [portals/alaska-airlines/index.html][url-portal-alaska-airlines]     | 2.74 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-alaska-airlines]            |
-| Amazon            | [portals/amazon/index.html][url-portal-amazon]                       | 3.95 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-amazon]                     |
-| Apple             | [portals/apple/index.html][url-portal-apple]                         | 5.28 KB | [@jules0835][url-jules0835] - [link][url-jules0835-apple]                            |
-| AT&T              | [portals/att/index.html][url-portal-att]                             | 3.83 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-att]                        |
-| Delta Airlines    | [portals/delta-airlines/index.html][url-portal-delta-airlines]       | 2.54 KB | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-delta-airlines]    |
-| Discord           | [portals/discord/index.html][url-portal-discord]                     | 6.48 KB | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-discord]                    |
-| Facebook          | [portals/facebook/index.html][url-portal-facebook]                   | 2.65 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-facebook]                   |
-| Google            | [portals/google/index.html][url-portal-google]                       | 5.28 KB | [@breaching][url-breaching] - [link][url-breaching-google]                           |
-| Instagram         | [portals/instagram/index.html][url-portal-instagram]                 | 4.01 KB | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-instagram]                  |
-| Microsoft         | [portals/microsoft/index.html][url-portal-microsoft]                 | 4.71 KB | [@Awlexegrecki][url-awlexegrecki] - [link][url-awlexegrecki-microsoft]               |
-| Southwest Airline | [portals/southwest-airline/index.html][url-portal-southwest-airline] | 3.72 KB | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-southwest-airline] |
-| Spectrum          | [portals/spectrum/index.html][url-portal-spectrum]                   | 3.16 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-spectrum]                   |
-| Spirit Airlines   | [portals/spirit-airlines/index.html][url-portal-spirit-airlines]     | 2.55 KB | [@roshanravan][url-roshanravan] - [link][url-roshanravan-spirit-airlines]            |
-| Starbucks         | To do...                                                             |         |                                                                                      |
-| Starlink          | To do...                                                             |         |                                                                                      |
-| T-Mobile          | To do...                                                             |         |                                                                                      |
-| Twitch            | To do...                                                             |         |                                                                                      |
-| United Airlines   | To do...                                                             |         |                                                                                      |
-| X / Twitter       | To do...                                                             |         |                                                                                      |
+| Portal            | Preview                                                              | Size     | Inspired By                                                                          |
+| ----------------- | -------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------ |
+| Alaska Airlines   | [portals/alaska-airlines/index.html][url-portal-alaska-airlines]     | 2.74 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-alaska-airlines]            |
+| Amazon            | [portals/amazon/index.html][url-portal-amazon]                       | 3.95 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-amazon]                     |
+| Apple             | [portals/apple/index.html][url-portal-apple]                         | 5.28 KB  | [@jules0835][url-jules0835] - [link][url-jules0835-apple]                            |
+| AT&T              | [portals/att/index.html][url-portal-att]                             | 3.83 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-att]                        |
+| Delta Airlines    | [portals/delta-airlines/index.html][url-portal-delta-airlines]       | 2.54 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-delta-airlines]    |
+| Discord           | [portals/discord/index.html][url-portal-discord]                     | 6.48 KB  | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-discord]                    |
+| Facebook          | [portals/facebook/index.html][url-portal-facebook]                   | 2.65 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-facebook]                   |
+| Google            | [portals/google/index.html][url-portal-google]                       | 5.28 KB  | [@breaching][url-breaching] - [link][url-breaching-google]                           |
+| Instagram         | [portals/instagram/index.html][url-portal-instagram]                 | 4.01 KB  | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-instagram]                  |
+| Microsoft         | [portals/microsoft/index.html][url-portal-microsoft]                 | 4.71 KB  | [@Awlexegrecki][url-awlexegrecki] - [link][url-awlexegrecki-microsoft]               |
+| Southwest Airline | [portals/southwest-airline/index.html][url-portal-southwest-airline] | 3.72 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-southwest-airline] |
+| Spectrum          | [portals/spectrum/index.html][url-portal-spectrum]                   | 3.16 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-spectrum]                   |
+| Spirit Airlines   | [portals/spirit-airlines/index.html][url-portal-spirit-airlines]     | 2.55 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-spirit-airlines]            |
+| Starbucks         | [portals/starbucks/index.html][url-portal-starbucks]                 | 10.70 KB | [@kleo][url-kleo] - [link][url-kleo-starbucks]                                       |
+| Starlink          | [portals/starlink/index.html][url-portal-starlink]                   | 3.41 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-starlink]                   |
+| T-Mobile          | [portals/starlink/index.html][url-portal-t-mobile]                   | 2.86 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-t-mobile]          |
+| Verizon           | [portals/starlink/index.html][url-portal-verizon]                    | 2.93 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-verizon]           |
 
 <p align="right">[ <a href="#index">Index</a> ]</p>
 
@@ -263,6 +261,14 @@ Cody Tolene
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/spectrum/index.html
 [url-portal-spirit-airlines]:
   https://raw.githack.com/CodyTolene/Red-Portals/main/portals/spirit-airlines/index.html
+[url-portal-starbucks]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/starbucks/index.html
+[url-portal-starlink]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/starlink/index.html
+[url-portal-t-mobile]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/t-mobile/index.html
+[url-portal-verizon]:
+  https://raw.githack.com/CodyTolene/Red-Portals/main/portals/verizon/index.html
 
 <!-- USER & USER CODE REFERENCES -->
 
@@ -273,6 +279,10 @@ Cody Tolene
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/281f8ffe25f08fa88fe8c334c89131f65c5a2afb#diff-b4fc76e467b7b429434070c839f1b16037169fe808dff2d70e475f30bf15de3e
 [url-bigbrodude6119-southwest-airline]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/281f8ffe25f08fa88fe8c334c89131f65c5a2afb#diff-7894c2218212dc767afe6401c249f74c0de3381111a2bddc6721ef9900ec4ce8
+[url-bigbrodude6119-t-mobile]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/9cbec168ab50724913e9a4e83b2e6b47fa955d7f#diff-8449df4d65846b35f8c364687937fb9ba8ca09ad2397978fc9a5e19da06c711a
+[url-bigbrodude6119-verizon]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/9cbec168ab50724913e9a4e83b2e6b47fa955d7f#diff-97ea6f2e581d6aaad48433a780cb6f564b57e233465f3fc1fa01b942daea07d0
 [url-bigbrodude6119]: https://github.com/bigbrodude6119
 [url-breaching-google]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/09c66bbb310ea1a1f90b1e00a27b1e90ab5a0d3d#diff-4ef8251f8a9bf3dd2cf37224d237cbaa64ee7607660f28ce37b92e085d217059
@@ -285,6 +295,9 @@ Cody Tolene
 [url-jules0835-apple]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/b5adc38657ac7c7429c576afc261c4642fd55e09#diff-60c8686fd67fcb8612617383e99aa380eee28a17d3c0c8bcf54621e3884b4615
 [url-jules0835]: https://github.com/jules0835
+[url-kleo-starbucks]:
+  https://github.com/kleo/evilportals/tree/master/portals/starbucks-login
+[url-kleo]: https://github.com/kleo
 [url-roshanravan-alaska-airlines]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/26a1b21f79b93290309d310f6ed83ac5ef0b3c82#diff-12c0462156cd8f8052b77b564b003e1d0ab3886b4d42db47ce03381787b30065
 [url-roshanravan-amazon]:
@@ -297,6 +310,8 @@ Cody Tolene
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/8a13000642eb6d337aeced1c022efa5fdebdb83d#diff-3065c554bc6b2a48213a9fc993c00ba666ea31e05687c1b0cb84010a7b58b07f
 [url-roshanravan-spirit-airlines]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/26a1b21f79b93290309d310f6ed83ac5ef0b3c82#diff-670b566baa2e28a60d805f0697986262bd131ee665740d07b7f38f11e21255bc
+[url-roshanravan-starlink]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/291b8e4386af2d6bc34e6fd43f0ba5e6bde61ae5#diff-17afe9aa8b2859f6bc7ebc81e402a659cf8c6b0778ff6a7065e2c1243f8d524b
 [url-roshanravan]: https://github.com/roshanravan
 
 <!-- OTHER LINK REFERENCES -->
