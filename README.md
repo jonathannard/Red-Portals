@@ -24,38 +24,39 @@
 
 ## Previews <a name="previews"></a>
 
-All templates have been updated to the dates listed below. All templates are
-designed to be
+You may click on any preview below to view it live. All templates are designed
+to:
 
-1. As simple, but accurate as possible.
-2. Work on both mobile and desktop
+1. Be as simple but accurate as possible.
+2. Work on both mobile and desktop devices.
 3. Send a query param payload on form submit as
-   `?login?username=example&password=example`
+   `/login?username=example&password=example`.
 4. Be developed as HTML/SCSS but compiled to a single HTML file with inline CSS.
-5. Be compressed. Take note some hardware only supports up to 20 KB at a time.
+5. Be compressed. Take note some hardware only supports displaying up to 20 KB
+   templates at a time.
 
-You may click on any preview below to view it live. All previews are hosted on
-[raw.githack.com][url-githack], a great CDN for your source code!
+> ![Info][img-info] All previews are hosted on [raw.githack.com][url-githack], a
+> great CDN for source code!
 
-| Portal            | Preview                                                              | Last Updated | Size     | Inspired By                                                                          |
-| ----------------- | -------------------------------------------------------------------- | ------------ | -------- | ------------------------------------------------------------------------------------ |
-| Alaska Airlines   | [portals/alaska-airlines/index.html][url-portal-alaska-airlines]     | 11/27/2024   | 2.74 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-alaska-airlines]            |
-| Amazon            | [portals/amazon/index.html][url-portal-amazon]                       | 11/27/2024   | 3.95 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-amazon]                     |
-| Apple             | [portals/apple/index.html][url-portal-apple]                         | 11/27/2024   | 5.28 KB  | [@jules0835][url-jules0835] - [link][url-jules0835-apple]                            |
-| AT&T              | [portals/att/index.html][url-portal-att]                             | 11/27/2024   | 3.83 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-att]                        |
-| Delta Airlines    | [portals/delta-airlines/index.html][url-portal-delta-airlines]       | 11/27/2024   | 2.54 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-delta-airlines]    |
-| Discord           | [portals/discord/index.html][url-portal-discord]                     | 11/27/2024   | 6.48 KB  | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-discord]                    |
-| Facebook          | [portals/facebook/index.html][url-portal-facebook]                   | 11/27/2024   | 2.65 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-facebook]                   |
-| Google            | [portals/google/index.html][url-portal-google]                       | 11/27/2024   | 5.28 KB  | [@breaching][url-breaching] - [link][url-breaching-google]                           |
-| Instagram         | [portals/instagram/index.html][url-portal-instagram]                 | 11/27/2024   | 4.01 KB  | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-instagram]                  |
-| Microsoft         | [portals/microsoft/index.html][url-portal-microsoft]                 | 11/27/2024   | 4.71 KB  | [@Awlexegrecki][url-awlexegrecki] - [link][url-awlexegrecki-microsoft]               |
-| Southwest Airline | [portals/southwest-airline/index.html][url-portal-southwest-airline] | 11/27/2024   | 3.72 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-southwest-airline] |
-| Spectrum          | [portals/spectrum/index.html][url-portal-spectrum]                   | 11/27/2024   | 3.16 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-spectrum]                   |
-| Spirit Airlines   | [portals/spirit-airlines/index.html][url-portal-spirit-airlines]     | 11/28/2024   | 2.55 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-spirit-airlines]            |
-| Starbucks         | [portals/starbucks/index.html][url-portal-starbucks]                 | 11/28/2024   | 10.70 KB | [@kleo][url-kleo] - [link][url-kleo-starbucks]                                       |
-| Starlink          | [portals/starlink/index.html][url-portal-starlink]                   | 11/28/2024   | 3.41 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-starlink]                   |
-| T-Mobile          | [portals/starlink/index.html][url-portal-t-mobile]                   | 11/28/2024   | 2.86 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-t-mobile]          |
-| Verizon           | [portals/starlink/index.html][url-portal-verizon]                    | 11/28/2024   | 2.93 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-verizon]           |
+| Portal            | Preview                                                              | Size     | Inspired By                                                                          |
+| ----------------- | -------------------------------------------------------------------- | -------- | ------------------------------------------------------------------------------------ |
+| Alaska Airlines   | [portals/alaska-airlines/index.html][url-portal-alaska-airlines]     | 2.74 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-alaska-airlines]            |
+| Amazon            | [portals/amazon/index.html][url-portal-amazon]                       | 3.95 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-amazon]                     |
+| Apple             | [portals/apple/index.html][url-portal-apple]                         | 5.28 KB  | [@jules0835][url-jules0835] - [link][url-jules0835-apple]                            |
+| AT&T              | [portals/att/index.html][url-portal-att]                             | 3.83 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-att]                        |
+| Delta Airlines    | [portals/delta-airlines/index.html][url-portal-delta-airlines]       | 2.54 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-delta-airlines]    |
+| Discord           | [portals/discord/index.html][url-portal-discord]                     | 6.48 KB  | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-discord]                    |
+| Facebook          | [portals/facebook/index.html][url-portal-facebook]                   | 2.65 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-facebook]                   |
+| Google            | [portals/google/index.html][url-portal-google]                       | 5.28 KB  | [@breaching][url-breaching] - [link][url-breaching-google]                           |
+| Instagram         | [portals/instagram/index.html][url-portal-instagram]                 | 4.01 KB  | [@JMcrafter26][url-jmcrafter26] - [link][url-jmcrafter26-instagram]                  |
+| Microsoft         | [portals/microsoft/index.html][url-portal-microsoft]                 | 4.71 KB  | [@Awlexegrecki][url-awlexegrecki] - [link][url-awlexegrecki-microsoft]               |
+| Southwest Airline | [portals/southwest-airline/index.html][url-portal-southwest-airline] | 3.72 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-southwest-airline] |
+| Spectrum          | [portals/spectrum/index.html][url-portal-spectrum]                   | 3.16 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-spectrum]                   |
+| Spirit Airlines   | [portals/spirit-airlines/index.html][url-portal-spirit-airlines]     | 2.55 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-spirit-airlines]            |
+| Starbucks         | [portals/starbucks/index.html][url-portal-starbucks]                 | 10.70 KB | [@kleo][url-kleo] - [link][url-kleo-starbucks]                                       |
+| Starlink          | [portals/starlink/index.html][url-portal-starlink]                   | 3.41 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-starlink]                   |
+| T-Mobile          | [portals/starlink/index.html][url-portal-t-mobile]                   | 2.86 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-t-mobile]          |
+| Verizon           | [portals/starlink/index.html][url-portal-verizon]                    | 2.93 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-verizon]           |
 
 <p align="right">[ <a href="#index">Index</a> ]</p>
 
@@ -145,7 +146,7 @@ the provided examples. To get started with development:
 > desktop devices.
 
 > ![Info][img-info] Templates should send a query param payload on form submit:
-> `?login?username=example&password=example`.
+> `/login?username=example&password=example`.
 
 > ![Info][img-info] Keep examples at less than 20 KB per template. Some hardware
 > only supports up to 20 KB at a time.
