@@ -27,7 +27,7 @@
 You may click on any preview below to view it live. All templates are designed
 to:
 
-1. Be as simple but accurate as possible.
+1. Be as simple and accurate as possible.
 2. Work on both mobile and desktop devices.
 3. Send a query param payload on form submit as
    `/login?username=example&password=example`.
@@ -58,8 +58,8 @@ to:
 | Spirit Airlines   | [portals/spirit-airlines/index.html][url-portal-spirit-airlines]     | 2.55 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-spirit-airlines]            |
 | Starbucks         | [portals/starbucks/index.html][url-portal-starbucks]                 | 10.70 KB | [@kleo][url-kleo] - [link][url-kleo-starbucks]                                       |
 | Starlink          | [portals/starlink/index.html][url-portal-starlink]                   | 3.41 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-starlink]                   |
-| T-Mobile          | [portals/starlink/index.html][url-portal-t-mobile]                   | 2.86 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-t-mobile]          |
-| Verizon           | [portals/starlink/index.html][url-portal-verizon]                    | 2.93 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-verizon]           |
+| T-Mobile          | [portals/t-mobile/index.html][url-portal-t-mobile]                   | 2.86 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-t-mobile]          |
+| Verizon           | [portals/verizon/index.html][url-portal-verizon]                     | 2.93 KB  | [@bigbrodude6119][url-bigbrodude6119] - [link][url-bigbrodude6119-verizon]           |
 
 <p align="right">[ <a href="#index">Index</a> ]</p>
 
@@ -110,7 +110,7 @@ realistic examples of how these systems operate, this repository aims to:
 1. Clone this repository to your machine.
 2. Set up supported hardware:
 
-- A Raspberry Pi W or other [supported hardware][url-lambda-guru] running
+- A Raspberry Pi Pico W or other [supported hardware][url-lambda-guru] running
   [Pico-Portal][url-pico-portal].
 - A Flipper Zero Wi-Fi module or similar ESP32-based devices.
 - A Wi-Fi Pineapple or similar device that supports captive portal testing.
@@ -151,8 +151,8 @@ the provided examples. To get started with development:
 > ![Info][img-info] Templates should send a query param payload on form submit:
 > `/login?username=example&password=example`.
 
-> ![Info][img-info] Keep examples at less than 20 KB per template. Some hardware
-> only supports up to 20 KB at a time.
+> ![Info][img-info] Keep examples under 20 KB per template, as some hardware
+> supports only up to this limit.
 
 > ![Warn][img-warning] Templates must include the notice "This is a simulated
 > template for educational purposes only. Not affiliated with or endorsed by any
