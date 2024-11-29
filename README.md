@@ -41,7 +41,7 @@
 | Spectrum          | [portals/spectrum/index.html][url-portal-spectrum]                   | 3.16 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-spectrum]                   |
 | Spirit Airlines   | [portals/spirit-airlines/index.html][url-portal-spirit-airlines]     | 2.55 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-spirit-airlines]            |
 | Starbucks         | [portals/starbucks/index.html][url-portal-starbucks]                 | 10.70 KB | [@kleo][url-kleo] - [link][url-kleo-starbucks]                                       |
-| Starlink          | To do...                                                             |          |                                                                                      |
+| Starlink          | [portals/starlink/index.html][url-portal-starlink]                   | 3.41 KB  | [@roshanravan][url-roshanravan] - [link][url-roshanravan-starlink]                   |
 | T-Mobile          | To do...                                                             |          |                                                                                      |
 | Twitch            | To do...                                                             |          |                                                                                      |
 | United Airlines   | To do...                                                             |          |                                                                                      |
@@ -302,6 +302,8 @@ Cody Tolene
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/8a13000642eb6d337aeced1c022efa5fdebdb83d#diff-3065c554bc6b2a48213a9fc993c00ba666ea31e05687c1b0cb84010a7b58b07f
 [url-roshanravan-spirit-airlines]:
   https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/26a1b21f79b93290309d310f6ed83ac5ef0b3c82#diff-670b566baa2e28a60d805f0697986262bd131ee665740d07b7f38f11e21255bc
+[url-roshanravan-starlink]:
+  https://github.com/bigbrodude6119/flipper-zero-evil-portal/commit/291b8e4386af2d6bc34e6fd43f0ba5e6bde61ae5#diff-17afe9aa8b2859f6bc7ebc81e402a659cf8c6b0778ff6a7065e2c1243f8d524b
 [url-roshanravan]: https://github.com/roshanravan
 
 <!-- OTHER LINK REFERENCES -->
